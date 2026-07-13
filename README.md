@@ -15,4 +15,4 @@ Insights and recommendations are provided on the following key areas:
  The Bank database consists of two tables: customer_info and account_info. For analysis, I created a final merged table (bank_churn)  
  containing 10,000 customer records, which was used for all SQL analysis and Power BI dashboards.
 
-https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Bank%20DataBase%20Structure%20(ERD).png?raw=true
+https://github.com/itsankit018/bank_customer_churn_analysis/blob/ac4076b74a50219e410e87352a867d319be1da06/Bank%20DataBase%20Structure%20(ERD).png
