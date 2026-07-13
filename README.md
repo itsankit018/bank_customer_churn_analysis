@@ -10,3 +10,5 @@ Insights and recommendations are provided on the following key areas:
 
  • **Revenue Analysis:** Analyzed Estimated Bank Revenue across different Geography, Gender And Number of Products. To understand revenue 
     contribution across different customer segments. 
+
+# Data Structure & Initial Checks
