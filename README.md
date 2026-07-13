@@ -17,3 +17,5 @@ Insights and recommendations are provided on the following key areas:
 
 ![image alt ](https://github.com/itsankit018/bank_customer_churn_analysis/blob/ac4076b74a50219e410e87352a867d319be1da06/Bank%20DataBase%20Structure%20(ERD).png)
 
+
+# Executive Summary
