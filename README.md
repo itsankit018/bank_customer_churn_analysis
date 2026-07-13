@@ -3,12 +3,8 @@ This project analyzes customer churn by identifying the key factors influencing 
 
 Insights and recommendations are provided on the following key areas:
 
-• **Churn Analysis:** Evaluated churn patterns across multiple segments Geography, Gender and Age Group, Tenure, Credit Score,
-    Number Of Products, focusing on Customer Churn Rate(%), Retention Rate(%), Current Active VS Inactive Customers, Product Holding Index, 
-    Total Customer Churn
-    
-•
-•
-
-
-# 
+• **Churn Analysis:** Evaluated churn patterns across multiple segments to identify customers likely to leave the bank.
+• **Customer Analysis:** Analyzed customer behaiour and customer patterns across different Geography, Age Group and Gender. To identify 
+    high risk customer segments
+• **Revenue Analysis:** Analyzed Estimated Bank Revenue across different Geography, Gender And Number of Products. To understand revenue 
+    contribution across different customer segments. 
