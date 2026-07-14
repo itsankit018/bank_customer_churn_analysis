@@ -28,3 +28,20 @@ Insights and recommendations are provided on the following key areas:
 **Churn Analysis**
 
   **Customer by Geography**:In region the geography has the highest churn rate. The chart shows that Germany at 32(%), highest churn rate.  Customers are in Germany are more likely to leave, so Marketing should focus on that region.
+
+ ![image alt]()
+
+**Customer Churn By Age Group**:This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
+ 
+ ![image alt]()
+ 
+**Customer Churn By Gender:What I find here in Gender semgent Female customers have a hihgher churn rate rather than Male customers.
+The chart shows that Female Customer churn rates are 25.09(%) and the Male customers churn rates are 16.46(%).The Bank should investigate why female customers are leaving more frequently as compared to Male customers.
+
+ ![image alt]()
+
+**Customer Churn By Member Status: The customer who are not active has highest churn rate. According to analysis that the customers who are not member records the highest churn rate 26.85(%). This suggests that Bank more focus to re-engaging inactive customers as they are more likey to leave the bank  
+ 
+
+
+ 
