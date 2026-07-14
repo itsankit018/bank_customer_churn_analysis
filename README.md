@@ -25,3 +25,5 @@ Insights and recommendations are provided on the following key areas:
 
 ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/e94140097ec0a3d2fbfbc8704dfe8f3208ca71ae/executive%20dashboard.png)
 
+**Churn Analysis**
+  **Customer by Geography**:In region the geography has the highest churn rate. The chart shows that Germany at 32(%), highest churn rate. Customers are in Germany are more likely to leave, so Marketing should focus on that region.
