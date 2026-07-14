@@ -40,7 +40,17 @@ The chart shows that Female Customer churn rates are 25.09(%) and the Male custo
 
  ![image alt]()
 
-**Customer Churn By Member Status: The customer who are not active has highest churn rate. According to analysis that the customers who are not member records the highest churn rate 26.85(%). This suggests that Bank more focus to re-engaging inactive customers as they are more likey to leave the bank  
+**Customer Churn By Member Status: The customer who are not active has highest churn rate. According to analysis that the customers who are not member records the highest churn rate 26.85(%). This suggests that Bank more focus to re-engaging inactive customers as they are more likey to leave the bank.
+ ![image alt]()
+
+**Customer Churn By Tenure Segment**: What I Find here the new customer and our more long term customers shows the highest customer churn rate. The data shows that New customer has the highest churn rate 21.38(%) and the second largest is Long term customers. This indicates that Bank should focus on retaining custoemr beacuase they have highest churn rate and for Long term customers should also be investigate because losing loyal customer can effect the Bank revenue or can effect on long term profitabilty.
+ ![image alt]()
+
+
+**Customer Churn By Credit Score Segment**:Customers in the SUB-PRIME segment slightly shows highest churn rate other credit score segment.
+
+
+
  
 
 
