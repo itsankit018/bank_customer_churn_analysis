@@ -20,6 +20,7 @@ Insights and recommendations are provided on the following key areas:
 
 # Executive Summary
 **Overview of Findings**
-  The Bank serve 10,000 customers from that 2038 have churned, that resulting in a customer churn rate upto 20.38(%). In bank the Current  Active customers are 4415 and Inactive customers are 3547. The following analysis identifies the key factors influencing customers churn and highlight opportunities to imporve customer retention.
+  The Bank serve 10,000 customers from that 2038 have churned, that resulting in a customer churn rate upto 20.38(%). 
+  In bank the Current  Active customers are 4415 and Inactive customers are 3547. The following analysis identifies the key factors  influencing customers churn and highlight opportunities to imporve customer retention.
 ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/e94140097ec0a3d2fbfbc8704dfe8f3208ca71ae/executive%20dashboard.png)
 
