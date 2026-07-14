@@ -20,3 +20,6 @@ Insights and recommendations are provided on the following key areas:
 
 # Executive Summary
 
+
+![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/e94140097ec0a3d2fbfbc8704dfe8f3208ca71ae/executive%20dashboard.png)
+
