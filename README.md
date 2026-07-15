@@ -62,7 +62,7 @@ According to analysis:
   **Germany:** 160 Valuable Customers.
 This bank should retain high-value customers in France through personalzied offers and loyalty program. While increasing high-value customers in Spain and Germany through targeted marketing campaigns.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png)
+ ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/4e17c8ecf3189b678f2a1654c5c99948ad530235/High%20value%20customers%20By%20Geography.png)
 
  **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
  
