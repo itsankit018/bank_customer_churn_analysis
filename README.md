@@ -53,7 +53,7 @@ The chart shows that Female Customer churn rates are 25.09(%) and the Male custo
 
  ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Credit%20Segment.png)
 
-#
+
 # Customer Analysis Summary
 
 
