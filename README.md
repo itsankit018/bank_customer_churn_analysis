@@ -62,12 +62,15 @@ According to analysis:
   **Germany:** 160 Valuable Customers.
 This bank should retain high-value customers in France through personalzied offers and loyalty program. While increasing high-value customers in Spain and Germany through targeted marketing campaigns.
 
+ ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png)
 
  **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
  
  ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png)
 
  **Retention Rate VS Customer Churn:** Customer retention is significantly higher than the customer churn rate. The visualization shows that Retention Rate(%) is 79.62%, while churn rate is 20.38%. The most customer are retained the Bank should focus on reducing churn by targeting high risk customers segments.
+
+ ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/ef1770638956ab6efa72a58804e7d8725a665ffe/Retention%20Rate%20VS%20Customer%20Churn%20Rate.png)
 
 **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
  
@@ -78,7 +81,7 @@ This bank should retain high-value customers in France through personalzied offe
   **Spain:** 1170 Active customers & 414 leave the Bank.
   **Germany:** 952 Active Customers & 814 leave the Bank.
 This indicates that Germany Bank requires that Germany Bank requires immediate attention as it has relatively fewer Active Customers and Number of churn custoemrs. Further analysis by Gender, Age Group and Tenure can help to identify which customer segments are mostly likely to leave the Bank.
-
+![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png)
 
 
 
