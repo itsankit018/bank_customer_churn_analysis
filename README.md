@@ -177,4 +177,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 **Assumption 3:** The dataset did not contain actual revenue or profit metrics. Therefore, Estimated Interest Earned (10% of Estimated Salary), Estimated Interest Expense (5% of Account Balance), Net Interest Income, and Net Margin Rate were calculated using assumed interest rates to estimate the bank’s financial performance.
 
-**Caveat:**Financial metrics such as Estimated Interest Earned, Estimated Interest Expense, Net Interest Income, and Net Margin Rate are estimated values based on assumed interest rates and do not represent the bank’s actual financial results. 
+**Caveat:** Financial metrics such as Estimated Interest Earned, Estimated Interest Expense, Net Interest Income, and Net Margin Rate are estimated values based on assumed interest rates and do not represent the bank’s actual financial results. 
