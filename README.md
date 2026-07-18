@@ -15,44 +15,57 @@ Insights and recommendations are provided on the following key areas:
  The Bank database consists of two tables: customer_info and account_info. For analysis, I created a final merged table (bank_churn)  
  containing 10,000 customer records, which was used for all SQL analysis and Power BI dashboards.
 
-![image alt ](https://github.com/itsankit018/bank_customer_churn_analysis/blob/ac4076b74a50219e410e87352a867d319be1da06/Bank%20DataBase%20Structure%20(ERD).png)
-
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/ac4076b74a50219e410e87352a867d319be1da06/Bank%20DataBase%20Structure%20(ERD).png" width="750">
+</p>
 
 # Executive Summary
 **Overview of Findings**
   The Bank serve 10,000 customers from that 2038 have churned, that resulting in a customer churn rate upto 20.38(%). 
   In bank the Current  Active customers are 4415 and Inactive customers are 3547. The following analysis identifies the key factors  influencing customers churn and highlight opportunities to imporve customer retention.
 
-![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/e94140097ec0a3d2fbfbc8704dfe8f3208ca71ae/executive%20dashboard.png)
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/e94140097ec0a3d2fbfbc8704dfe8f3208ca71ae/executive%20dashboard.png" width="750">
+</p>
 
 **Churn Analysis**
 
   **Customer by Geography:** In region the geography has the highest churn rate. The chart shows that Germany at 32(%), highest churn rate.  Customers are in Germany are more likely to leave, so Marketing should focus on that region.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Churn%20Customer%20By%20Geography.png)
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Churn%20Customer%20By%20Geography.png" width="750">
+</p>
 
 **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
- 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png)
+
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png" width="750">
+</p>
  
 **Customer Churn By Gender:** What I find here in Gender semgent Female customers have a hihgher churn rate rather than Male customers.
 The chart shows that Female Customer churn rates are 25.09(%) and the Male customers churn rates are 16.46(%).The Bank should investigate why female customers are leaving more frequently as compared to Male customers.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Gender.png)
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Gender.png" width="750">
+</p>
 
 **Customer Churn By Member Status:** The customer who are not active has highest churn rate. According to analysis that the customers who are not member records the highest churn rate 26.85(%). This suggests that Bank more focus to re-engaging inactive customers as they are more likey to leave the bank.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Member%20Status.png)
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Member%20Status.png" width="750">
+</p>
 
 **Customer Churn By Tenure Segment:** What I Find here the new customers and our more long term customers shows the highest customers churn rate. The data shows that New customer has the highest churn rate 21.38(%) and the second largest is Long term customers. This indicates that Bank should focus on retaining customer beacuase they have highest churn rate and for Long term customers should also be investigate because losing loyal customer can effect the Bank revenue or can effect on long term profitabilty.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Tenure%20Segmet.png)
-
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Tenure%20Segmet.png" width="750">
+</p>
 
 **Customer Churn By Credit Score Segment:** Customers in the SUB-PRIME segment slightly shows highest churn rate other credit score segment.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Credit%20Segment.png)
-
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20By%20Credit%20Segment.png" width="750">
+</p>
 
 # Customer Analysis Summary
 **High Value Customers By Geography:** France has Highest valuable customers, second highest is Spain and then Germany. 
@@ -62,27 +75,36 @@ According to analysis:
   **Germany:** 160 Valuable Customers.
 This bank should retain high-value customers in France through personalzied offers and loyalty program. While increasing high-value customers in Spain and Germany through targeted marketing campaigns.
 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/4e17c8ecf3189b678f2a1654c5c99948ad530235/High%20value%20customers%20By%20Geography.png)
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/4e17c8ecf3189b678f2a1654c5c99948ad530235/High%20value%20customers%20By%20Geography.png" width="750">
+ </p>
 
  **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
- 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png)
+
+ <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png" width="750">
+</p>
 
  **Retention Rate VS Customer Churn:** Customer retention is significantly higher than the customer churn rate. The visualization shows that Retention Rate(%) is 79.62%, while churn rate is 20.38%. The most customer are retained the Bank should focus on reducing churn by targeting high risk customers segments.
-
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/ef1770638956ab6efa72a58804e7d8725a665ffe/Retention%20Rate%20VS%20Customer%20Churn%20Rate.png)
+  <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/ef1770638956ab6efa72a58804e7d8725a665ffe/Retention%20Rate%20VS%20Customer%20Churn%20Rate.png" width="750">
+</p>
 
 **Customer Churn By Age Group:** This insight shows that the Customers between 46-60 are more likely to leave the bank. The chart shows that Middle Age segment has highest churn rate upto 51.12(%).The Bank should focus on retaining the middled-age customers.
- 
- ![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png)
+
+  <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/fa4311017a03d8790105687c493b11622844876d/Churn%20Customer%20BY%20Age%20Group%20.png" width="750">
+</p>
  
 **Current Active Users VS Total Churn BY Geography:** France, Spain has the highest current Active customers, while Germany has the Lowest Active users. Based on the analysis:
   **France:** 2293 Active Customers & 810 leave the Bank.
   **Spain:** 1170 Active customers & 414 leave the Bank.
   **Germany:** 952 Active Customers & 814 leave the Bank.
 This indicates that Germany Bank requires that Germany Bank requires immediate attention as it has relatively fewer Active Customers and Number of churn custoemrs. Further analysis by Gender, Age Group and Tenure can help to identify which customer segments are mostly likely to leave the Bank.
-![image alt](https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png)
-    
+
+  <p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+</p>
     
 # Financial Analysis
 **Net Margin By Geography:** France stands out with highest Net Margin among all region. The data shows that France has highest Net Revenue income:
