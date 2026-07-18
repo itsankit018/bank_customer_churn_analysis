@@ -157,11 +157,19 @@ The data indicates that Product 1 and Product 2 performing well but Bank should 
   <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interst%20Income%20By%20Product.png" width="750" height="500">
 </p>
 
+# Recommendations:
+Based on the uncovered insights, the following recommendations have been provided:
 
+• With customer churn rate of 32% come from Germany and around 16% in both Spain and France, the Bank should investigate why the churn rate higher in Germany. The Bank should review its loan interest rates, launch targeted promotional campaigns and introduce loyalty programs to improve customer retention and helpfull to reduce churn rate.
    
-
+• Female Customers leave the most compared to Male customers here also I recommend that bank should investigate here why Female customers leave the Bank. The Bank should engage with Female customers through campaigns, offer Credit Card discounts, reduced charges.
       
+• Young Adult has the lowest churn rate of 7% this is a good sign for the bank but the other age segments the churn rates are Adult 15.74%, Senior 24.78% and Middle Age 51.12% and is signifcantly higher.The Bank should focus on is to be Senior and Middle Age cusotomers I recommended that the bank introduce loyalty program, higher Savings interest rates, offer credit card discounts or provide cashback offers.
+
+• In Germany, 53% of customers are active but approximatley 46% of customers have already left the Bank, the Bank should focus on reducing churn in Germany I recommend that the Bank analyze which tenure, gender segment or age group leave the Bank and then Bank should take appropriate action.
+
+# Assumptions and Caveats:
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 
 
- 
