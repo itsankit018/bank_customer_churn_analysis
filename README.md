@@ -143,7 +143,7 @@ The Male and Female customers dosen't have such huge difference from Females thr
 The Adult Age-Group generated significant revenue but the Bank should focus on Young-Adult, Middle-Age, Senior to generate more revenue using marketing like low-interest loans, Card benifits, targeted marketing campaign.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Age%20Group.png" width="750" height="400">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Age%20Group.png" width="750" height="500">
 </p>
 
 **Net Revenue By Age Prdouct:** Product 1 and Product 2 shows the highest revenue on other side products 3 and 4 showed the weakest persformance. The data shows:
@@ -154,7 +154,7 @@ The Adult Age-Group generated significant revenue but the Bank should focus on Y
 The data indicates that Product 1 and Product 2 performing well but Bank should focus on customer demand, target promotion and improve products to increase revenue in these products.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interst%20Income%20By%20Product.png" width="750" height="400">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interst%20Income%20By%20Product.png" width="750" height="500">
 </p>
 
 
