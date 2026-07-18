@@ -90,6 +90,10 @@ This indicates that Germany Bank requires that Germany Bank requires immediate a
     **Spain:** 17M
     **Germany:** 10M.
  The visualization shows that France is actually covering our Bank Persona and in other regions like Spain and Germany the Bank should run loyalty program or engage with Non-Active users to increase revenue.
+
+<p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+</p>
       
 **Credit Card Revenue By Gender:** As per analysis in Gender the Male customers generating higher revenue in credit card segment as compared to Female customers.
       **Male Revenue:** 905k
