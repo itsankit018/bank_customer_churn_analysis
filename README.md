@@ -114,7 +114,7 @@ This indicates that Germany Bank requires that Germany Bank requires immediate a
  The visualization shows that France is actually covering our Bank Persona and in other regions like Spain and Germany the Bank should run loyalty program or engage with Non-Active users to increase revenue.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Geography.png" width="750">
 </p>
       
 **Credit Card Revenue By Gender:** As per analysis in Gender the Male customers generating higher revenue in credit card segment as compared to Female customers.
@@ -132,7 +132,7 @@ The Bank should analyze why Male customers generating more revenue and apply the
 The Male and Female customers dosen't have such huge difference from Females through running campaigns, offers and cross selling opportunities.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Gender.png" width="750">
 </p>
 
 **Net Revenue By Age Group:** Based on the analysis Adult has generated highest Revenue among all other Age-Group. The data shows:
@@ -143,7 +143,7 @@ The Male and Female customers dosen't have such huge difference from Females thr
 The Adult Age-Group generated significant revenue but the Bank should focus on Young-Adult, Middle-Age, Senior to generate more revenue using marketing like low-interest loans, Card benifits, targeted marketing campaign.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Age%20Group.png" width="750">
 </p>
 
 **Net Revenue By Age Prdouct:** Product 1 and Product 2 shows the highest revenue on other side products 3 and 4 showed the weakest persformance. The data shows:
@@ -154,7 +154,7 @@ The Adult Age-Group generated significant revenue but the Bank should focus on Y
 The data indicates that Product 1 and Product 2 performing well but Bank should focus on customer demand, target promotion and improve products to increase revenue in these products.
 
 <p align="center">
-  <img src="" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interst%20Income%20By%20Product.png" width="750">
 </p>
 
 
