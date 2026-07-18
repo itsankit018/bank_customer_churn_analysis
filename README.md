@@ -114,7 +114,7 @@ This indicates that Germany Bank requires that Germany Bank requires immediate a
  The visualization shows that France is actually covering our Bank Persona and in other regions like Spain and Germany the Bank should run loyalty program or engage with Non-Active users to increase revenue.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/2f5f5167732d6818bb9577662e262a3ccb50bd7d/Net%20Interest%20Income%20By%20Geography.png" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/6c012717bb93cb441c9cb033a280477fc20cb165/Net%20Interest%20Income%20By%20Geography.png" width="750">
 </p>
       
 **Credit Card Revenue By Gender:** As per analysis in Gender the Male customers generating higher revenue in credit card segment as compared to Female customers.
@@ -123,7 +123,7 @@ This indicates that Germany Bank requires that Germany Bank requires immediate a
 The Bank should analyze why Male customers generating more revenue and apply the same stratigies to increase more revenue like introduced personalized offers to increase revenue for Female customers.
 
 <p align="center">
-  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/6c012717bb93cb441c9cb033a280477fc20cb165/Credit%20Card%20Revenue%20By%20Gender.png" width="750">
 </p>
         
 **Net Revenue By Gender:** According to the analysis Male customers stands out with highest revenue as compared to Female customers.The insight shows:
