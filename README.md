@@ -169,7 +169,12 @@ Based on the uncovered insights, the following recommendations have been provide
 • In Germany, 53% of customers are active but approximatley 46% of customers have already left the Bank, the Bank should focus on reducing churn in Germany I recommend that the Bank analyze which tenure, gender segment or age group leave the Bank and then Bank should take appropriate action.
 
 # Assumptions and Caveats:
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions are noted below:
 
+**Assumption 1:** Customer churn was identified using the Exited column.
 
+**Assumption 2:** The dataset did not contain actual revenue or interest income. Therefore, Estimated Interest Earned (10% of Estimated Salary) and Estimated Interest Expense (5% of Account Balance) were calculated using assumed interest rates to estimate Net Interest Income.
 
+**Assumption 3:** The dataset did not contain actual revenue or profit metrics. Therefore, Estimated Interest Earned (10% of Estimated Salary), Estimated Interest Expense (5% of Account Balance), Net Interest Income, and Net Margin Rate were calculated using assumed interest rates to estimate the bank’s financial performance.
+
+**Caveat:**Financial metrics such as Estimated Interest Earned, Estimated Interest Expense, Net Interest Income, and Net Margin Rate are estimated values based on assumed interest rates and do not represent the bank’s actual financial results. 
