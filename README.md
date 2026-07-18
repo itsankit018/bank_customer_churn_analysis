@@ -121,11 +121,19 @@ This indicates that Germany Bank requires that Germany Bank requires immediate a
       **Male Revenue:** 905k
       **Female Revenue:** 657k.
 The Bank should analyze why Male customers generating more revenue and apply the same stratigies to increase more revenue like introduced personalized offers to increase revenue for Female customers.
+
+<p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+</p>
         
 **Net Revenue By Gender:** According to the analysis Male customers stands out with highest revenue as compared to Female customers.The insight shows:
         **Male Customers:** 33.33M
         **Female Customers:** 28.52M
 The Male and Female customers dosen't have such huge difference from Females through running campaigns, offers and cross selling opportunities.
+
+<p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+</p>
 
 **Net Revenue By Age Group:** Based on the analysis Adult has generated highest Revenue among all other Age-Group. The data shows:
         **Adult:** 37M
@@ -134,13 +142,20 @@ The Male and Female customers dosen't have such huge difference from Females thr
         **Senior:** 3M
 The Adult Age-Group generated significant revenue but the Bank should focus on Young-Adult, Middle-Age, Senior to generate more revenue using marketing like low-interest loans, Card benifits, targeted marketing campaign.
 
-**Net Revenue By Age Group:** Product 1 and Product 2 shows the highest revenue on other side products 3 and 4 showed the weakest persformance. The data shows:
+<p align="center">
+  <img src="https://github.com/itsankit018/bank_customer_churn_analysis/blob/main/Current%20Active%20Customers%20Vs%20Total%20customer%20churn.png" width="750">
+</p>
+
+**Net Revenue By Age Prdouct:** Product 1 and Product 2 shows the highest revenue on other side products 3 and 4 showed the weakest persformance. The data shows:
         **Product 1:** 26M
         **Product 2:** 34M
         **Product 3:** 2M
         **Prodcut 4:** 0M
 The data indicates that Product 1 and Product 2 performing well but Bank should focus on customer demand, target promotion and improve products to increase revenue in these products.
 
+<p align="center">
+  <img src="" width="750">
+</p>
 
 
    
